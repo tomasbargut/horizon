@@ -12,6 +12,8 @@ jedi = "*"
 rope = "*"
 pytest = "*"
 pytest-cov = "*"
+e1839a8 = {editable = true,path = "."}
+horizon = {editable = true,path = "."}
 
 [packages]
 

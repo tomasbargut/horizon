@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "fd6dda15bb92c52f6b2b1cd0230f5e09c96a78791ca33bc297921b252c61d43b"
+            "sha256": "c3be1dad0164ed519dac49000593f3ee5f6ad3cc20c2ed0e1a65eabaf21745e8"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -59,6 +59,14 @@
                 "sha256:fca1669d464f0c9831fd10be2eef6b86f5ebd76c724d1e0706ebdff86bb4adf0"
             ],
             "version": "==5.0.3"
+        },
+        "e1839a8": {
+            "editable": true,
+            "path": "."
+        },
+        "horizon": {
+            "editable": true,
+            "path": "."
         },
         "jedi": {
             "hashes": [
